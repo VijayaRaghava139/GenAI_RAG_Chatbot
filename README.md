@@ -93,6 +93,15 @@ graph TB
 3. **Install dependencies**
    ```bash
    pip install -r requirements.txt
+
+   # Langchain Unstructured Doc Loader Support
+   pip install -U langchain-community unstructured
+   pip install "unstructured[pdf]"
+   pip install "unstructured[all]"
+
+   # Langchain FAISS CPU Support
+   pip install -U langchain-community faiss-cpu
+
    ```
 
 4. **Set up environment variables**
@@ -231,9 +240,10 @@ This project is open source and available under the MIT License.
 
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+Vijaya Raghava Medarametla
+
+- GitHub: [@VijayaRaghava139](https://github.com/VijayaRaghava139)
+- Email: intothedatascience@gmail.com
 
 ## 🙏 Acknowledgments
 
