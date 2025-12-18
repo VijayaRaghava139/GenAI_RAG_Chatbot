@@ -240,8 +240,7 @@ This project is open source and available under the MIT License.
 
 ## 👨‍💻 Author
 
-Vijaya Raghava Medarametla
-
+**Vijaya Raghava Medarametla**
 - GitHub: [@VijayaRaghava139](https://github.com/VijayaRaghava139)
 - Email: intothedatascience@gmail.com
 
